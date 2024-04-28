@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Entrenador
+comment1.params=nombre\ Apaterno\ Amaterno\ Edad\ folioentrenador
+comment1.target=Entrenador(java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ java.lang.String)
+comment2.params=folioentrenador
+comment2.target=void\ setFolioentrenador(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getFolioentrenador()
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5
